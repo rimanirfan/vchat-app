@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
+### Live Demo
+```
+https://vchat-app-68335.firebaseapp.com/
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
